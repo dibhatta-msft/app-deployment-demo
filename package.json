@@ -1,0 +1,21 @@
+{
+  "name": "app-deployment-demo",
+  "version": "1.0.0",
+  "description": "Test file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dibhatta-msft/app-deployment-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/dibhatta-msft/app-deployment-demo/issues"
+  },
+  "homepage": "https://github.com/dibhatta-msft/app-deployment-demo#readme"
+}
