@@ -4,7 +4,7 @@
   "description": "Test file",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"No test. Skipping for now"
+    "test": "echo \"No test. Skipping for now\""
   },
   "repository": {
     "type": "git",
